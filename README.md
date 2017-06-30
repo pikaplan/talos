@@ -1,2 +1,2 @@
-# talos
-Tensor Abstraction Layer Objects
+# TALOS
+Tensor Abstraction Layer ObjectS
